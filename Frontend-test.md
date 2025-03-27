@@ -13,6 +13,7 @@ Welcome to the **Frontend Developer Intern Test**! The goal of this test is to e
 ## 📌 Requirements
 
 - Clone the given **Figma design** as closely as possible.
+- **Make the UI fully mobile responsive** (Figma includes mobile screens).
 - Use **React + TypeScript** with **Vite**.
 - Use **Tailwind CSS** for styling.
 - Use **Shadcn UI** for UI components (**no other UI library allowed**).
@@ -25,6 +26,7 @@ Welcome to the **Frontend Developer Intern Test**! The goal of this test is to e
 ## 🚀 Bonus Points
 
 - Deploy the project on **Firebase Hosting** and provide a live link alongside the GitHub repository link.
+- **Well-implemented tablet responsiveness** (to assess how you improvise) NB: Tablet screens are not included in the Figma design
 
 ---
 
