@@ -4,6 +4,12 @@ Welcome to the **Frontend Developer Intern Test**! The goal of this test is to e
 
 ---
 
+## 🎨 Figma Design
+
+[📌 Click here to view the Figma design](<https://www.figma.com/design/7mSrR7rX3CMVYhskh8mk7y/MersonHR-Frontend-Test?node-id=0-1&t=RrrxrYTf2vahnxhq-1>)  
+
+---
+
 ## 📌 Requirements
 
 - Clone the given **Figma design** as closely as possible.
@@ -18,7 +24,7 @@ Welcome to the **Frontend Developer Intern Test**! The goal of this test is to e
 
 ## 🚀 Bonus Points
 
-- Deploy the project on **Firebase Hosting** and provide a live link.
+- Deploy the project on **Firebase Hosting** and provide a live link alongside the GitHub repository link.
 
 ---
 
@@ -32,7 +38,11 @@ Welcome to the **Frontend Developer Intern Test**! The goal of this test is to e
 
 ---
 
-## 📂 Project Structure
+## ✅ Submission Guidelines
 
-Your project should follow a structured component-based architecture:
+- **Submit a public GitHub repository link** with your completed project.  
+- If you deployed it, **provide the Firebase live URL alongside the GitHub repository link**.
 
+---
+
+Goodluck 🚀
